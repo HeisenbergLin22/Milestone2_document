@@ -22,7 +22,7 @@ I easily managed to setup the local environment, also with the provided Dockerfi
 
 ## Response: 
 
-It turns out I forgot to upload the new frontend code we have developed for milestone 2 in my previous commits, which you can now find in the [Faceless_frontend @ cfe781e
+It turns out I forgot to upload the new frontend code we have developed for milestone 2 in my previous commits. You can find the updated frontend code in the [Faceless_frontend @ cfe781e
 ] folder of the updated [delivery](https://github.com/HeisenbergLin22/Faceless_milestone2_delivery). Sorry for the trouble.  
 *************************
 
